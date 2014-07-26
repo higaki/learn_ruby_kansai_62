@@ -8,7 +8,7 @@
 
 * 各要素を順番に表示しよう。[解答例](https://github.com/higaki/learn_ruby_kansai_62/blob/master/ex1-1.rb)
 * 各要素を 2倍した値を持つ配列を作ろう。[解答例](https://github.com/higaki/learn_ruby_kansai_62/blob/master/ex1-2.rb)
-* 全要素の合計値を計算しよう。[解答例](https://github.com/higaki/learn_ruby_kansai_62/blob/master/ex1-2.rb)
+* 全要素の合計値を計算しよう。[解答例](https://github.com/higaki/learn_ruby_kansai_62/blob/master/ex1-3.rb)
 
 ### 演習問題2
 0 から 9 までの数値をもつ配列 a がある。
